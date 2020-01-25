@@ -21,6 +21,8 @@ You can use some of these [Common Lisp] environments:
 - [Common Lisp]
 - [Allegro Common Lisp (Express)](https://franz.com/products/packages/)
 - [Steel Bank Common Lisp]
+- [Portacle](https://portacle.github.io/)
+- [Emacs] and [Slime]
 
 
 ### Jupyter Notebook
@@ -46,5 +48,7 @@ You will find this book on [IUCAT](https://iucat.iu.edu/) (or elsewhere):
 [CL]: https://lisp-lang.org/ "Common Lisp"
 [Steel Bank Common Lisp]: http://www.sbcl.org/ "Steel Bank Common Lisp"
 [SBCL]: http://www.sbcl.org/ "Steel Bank Common Lisp"
+[Emacs]: https://www.gnu.org/software/emacs/ "Emacs"
+[Slime]: https://common-lisp.net/project/slime/ "Slime"
 [Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"
 [Indiana University at Bloomington]: https://www.indiana.edu/ "Indiana University at Bloomington"
