@@ -1,4 +1,4 @@
-# Common Lisp Tutorial
+# Common Lisp Meetings
 
 (C) 2020 by [Damir Cavar], ...
 
