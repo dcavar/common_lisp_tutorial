@@ -34,6 +34,7 @@ To use the [Jupyter] Notebooks you might have to install [Python] and [Jupyter],
 
 You will find this book on [IUCAT](https://iucat.iu.edu/) (or elsewhere):
 
+- Peter Norvig (1992) [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://www.elsevier.com/books/paradigms-of-artificial-intelligence-programming/norvig/978-0-08-057115-7). Elsevier. ([GitHub repo with code](https://github.com/norvig/paip-lisp))
 - Seibel, Peter (2005) [Practical Common Lisp](https://www.apress.com/us/book/9781590592397). Apress.
 
 
