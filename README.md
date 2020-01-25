@@ -2,7 +2,7 @@
 
 (C) 2020 by [Damir Cavar], ...
 
-This is a [Common Lisp] tutorial repo aiming at a CL interest group at [Indiana University at Bloomington]. Feel free to use the code examples in a way compatible with the [Apache License Version 2.0] as specified in the accompanied LICENSE file.
+This is a [Common Lisp] language proficiency improvement and tutorial repo aiming at a [CL] interest group at [Indiana University at Bloomington]. Feel free to use the code examples in a way compatible with the [Apache License Version 2.0] as specified in the accompanied LICENSE file.
 
 
 ## Tutorials
@@ -43,6 +43,7 @@ You will find this book on [IUCAT](https://iucat.iu.edu/) (or elsewhere):
 [Python]: https://www.python.org/ "Python"
 [Jupyter]: https://jupyter.org/ "Jupyter"
 [Common Lisp]: https://lisp-lang.org/ "Common Lisp"
+[CL]: https://lisp-lang.org/ "Common Lisp"
 [Steel Bank Common Lisp]: http://www.sbcl.org/ "Steel Bank Common Lisp"
 [SBCL]: http://www.sbcl.org/ "Steel Bank Common Lisp"
 [Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"
