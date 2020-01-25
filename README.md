@@ -30,6 +30,14 @@ To use the [Jupyter] Notebooks you might have to install [Python] and [Jupyter],
 - [Common Lisp Jupyter kernel](https://github.com/yitzchak/common-lisp-jupyter)
 
 
+## Literature
+
+You will find this book on [IUCAT](https://iucat.iu.edu/) (or elsewhere):
+
+- Seibel, Peter (2005) [Practical Common Lisp](https://www.apress.com/us/book/9781590592397). Apress.
+
+
+
 [Apache License Version 2.0]: https://www.apache.org/licenses/LICENSE-2.0 "Apache License Version 2.0"
 [Python]: https://www.python.org/ "Python"
 [Jupyter]: https://jupyter.org/ "Jupyter"
